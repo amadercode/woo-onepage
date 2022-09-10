@@ -1,14 +1,14 @@
 <?php
 /*
  * Plugin Name: Woo OnePage Checkout Shop
- * Version: 1.6.5
+ * Version: 1.6.6
  * Plugin URI: https://amadercode.com/premium-products/woocommerce-one-page-checkout-shop/
  * Description: Create your onepage store where a customer can make his order by choosing products add to cart and checkout.
  * Author: AmaderCode Lab
  * Author URI: http://www.amadercode.com/
  * Requires at least: 4.0
- * Tested up to: 5.3
- * WC tested up to: 3.8
+ * Tested up to: 6.0.2
+ * WC tested up to: 6.8.2
  * WC requires at least: 3.0
  * Text Domain: woocommerce-one-page-checkout-shop
  * Domain Path: /lang/
